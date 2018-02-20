@@ -1,10 +1,7 @@
 package com.company;
 
 public class Diamond {
-
-
-
-
+    
     private String name;
     private String category;
     private String color;
