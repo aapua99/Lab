@@ -9,16 +9,16 @@ public class Diamond {
     private double weight;
     private static double totalWeight=0;
 
-    Diamond(){}
+    public Diamond(){}
 
-    Diamond(String name, String category, String color, double price){
+    public Diamond(String name, String category, String color, double price){
         setName(name);
         setCategory(category);
         setColor(color);
         setPrice(price);
     }
 
-    Diamond(String name, String category, String color, double price, double weight){
+    public Diamond(String name, String category, String color, double price, double weight){
         setTotalWeight(weight);
         setName(name);
         setCategory(category);
