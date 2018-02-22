@@ -3,20 +3,20 @@ package ua.lviv.iot.andriy;
 public class Fruit implements Comparable<Fruit> {
 
     private Date experationDate;
-    private String name;
-    private ColorFruit colorFruit;
+    private FruitType name;
+    private FruitColor fruitColor;
     private double weight;
     private Season season;
 
-    public Fruit(String name, Date experationDate, ColorFruit colorFruit, double weight, Season season) {
+    public Fruit(FruitType name, Date experationDate, FruitColor fruitColor, double weight, Season season) {
         this.experationDate = experationDate;
-        this.colorFruit = colorFruit;
+        this.fruitColor = fruitColor;
         this.weight = weight;
         this.name = name;
         this.season = season;
     }
 
-    public Fruit(String name, double weight) {
+    public Fruit(FruitType name, double weight) {
         this.name = name;
         this.weight = weight;
     }
@@ -29,12 +29,12 @@ public class Fruit implements Comparable<Fruit> {
         this.experationDate = experationDate;
     }
 
-    public ColorFruit getColorFruit() {
-        return colorFruit;
+    public FruitColor getFruitColor() {
+        return fruitColor;
     }
 
-    public void setColorFruit(ColorFruit colorFruit) {
-        this.colorFruit = colorFruit;
+    public void setFruitColor(FruitColor fruitColor) {
+        this.fruitColor = fruitColor;
     }
 
     public double getWeight() {
@@ -53,17 +53,17 @@ public class Fruit implements Comparable<Fruit> {
         this.season = season;
     }
 
-    public String getName() {
+    public FruitType getName() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(FruitType name) {
         this.name = name;
     }
 
 
     @Override
     public int compareTo(Fruit o) {
-        return colorFruit.compareTo(o.getColorFruit());
+        return fruitColor.compareTo(o.getFruitColor());
     }
 }

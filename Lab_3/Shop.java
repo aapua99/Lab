@@ -5,28 +5,28 @@ import java.util.*;
 public class Shop {
     private String name;
     private double area;
-    private String adress;
-    private List<Fruit> listFruit;
+    private String address;
+    private List<Fruit> fruitList;
 
     public Shop(String name, double area, String adress) {
         this.name = name;
-        this.adress = adress;
+        this.address = adress;
         this.area = area;
-        this.listFruit = new LinkedList<>();
+        this.fruitList = new LinkedList<>();
     }
 
     public void addFruit(Fruit addFruit) {
-        for (Fruit fruit : listFruit) {
+        for (Fruit fruit : fruitList) {
             if (fruit.getName().equals(addFruit.getName())) {
                 fruit.setWeight(fruit.getWeight() + addFruit.getWeight());
                 return;
             }
         }
-        listFruit.add(addFruit);
+        fruitList.add(addFruit);
     }
 
     public void sellFruit(Fruit sellFruit) {
-        for (Fruit fruit : listFruit) {
+        for (Fruit fruit : fruitList) {
             if (fruit.getName().equals(sellFruit.getName())) {
                 fruit.setWeight(fruit.getWeight() - sellFruit.getWeight());
                 return;
@@ -34,13 +34,13 @@ public class Shop {
         }
     }
 
-    public void sortFruitByColor() {
-        this.listFruit.sort(Comparator.comparing(Fruit::getColorFruit));
+    public void sortFruitByColor(List<Fruit> list) {
+        list.sort(Comparator.comparing(Fruit::getFruitColor));
     }
 
     public List<Fruit> searchFruit(Season searchSeason) {
         List<Fruit> searchList = new LinkedList<>();
-        for (Fruit fruit : listFruit) {
+        for (Fruit fruit : fruitList) {
             if (fruit.getSeason().equals(searchSeason)) {
                 searchList.add(fruit);
             }
@@ -64,20 +64,20 @@ public class Shop {
         this.area = area;
     }
 
-    public String getAdress() {
-        return adress;
+    public String getAddress() {
+        return address;
     }
 
-    public void setAdress(String adress) {
-        this.adress = adress;
+    public void setAddress(String adress) {
+        this.address = adress;
     }
 
-    public List<Fruit> getListFruit() {
-        return listFruit;
+    public List<Fruit> getFruitList() {
+        return fruitList;
     }
 
-    public void setListFruit(List<Fruit> listFruit) {
-        this.listFruit = listFruit;
+    public void setFruitList (List<Fruit> fruitList) {
+        this.fruitList = fruitList;
     }
 
 

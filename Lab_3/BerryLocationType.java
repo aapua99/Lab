@@ -1,5 +1,5 @@
 package ua.lviv.iot.andriy;
 
-public enum LocationBerrie {
+public enum BerryLocationType {
     FOREST, BACKYARD
 }
