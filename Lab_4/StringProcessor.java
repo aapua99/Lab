@@ -19,27 +19,27 @@ public class StringProcessor {
     }
 
     public String processText(String inputText) {
-        String result=new String();
-        inputText=" "+inputText;
-        List<String> stringList=new LinkedList<>();
-        String pattern="\\s+[aeuioyAEUIOY]+[a-z]*";
-        Pattern p=Pattern.compile(pattern);
-        Matcher m=p.matcher(inputText);
-        while (m.find()){
+        String result = new String();
+        inputText = " " + inputText;
+        List<String> stringList = new LinkedList<>();
+        String pattern = "\\s+[aeuioyAEUIOY]+[a-z]*";
+        Pattern p = Pattern.compile(pattern);
+        Matcher m = p.matcher(inputText);
+        while (m.find()) {
             stringList.add(inputText.substring(m.start(), m.end()));
         }
-        stringList.sort((String o1, String o2)-> o1.compareTo(o2));
-       for(String string: stringList){
-           result+=string;
-       }
+        stringList.sort((String o1, String o2) -> o1.compareTo(o2));
+        for (String string : stringList) {
+            result += string;
+        }
 
 
         // do all work here
-        return  result;
+        return result;
     }
 
-    public void showResult(String resultText ) {
-      System.out.println(resultText);
+    public void showResult(String resultText) {
+        System.out.println(resultText);
     }
 
 }
