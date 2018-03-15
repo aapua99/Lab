@@ -15,6 +15,7 @@ public class Berry extends Fruit {
 
     public Berry(final FruitType type, final double weight) {
         super(type, weight);
+        this.type=type;
     }
 
     public final FruitType getType() {

@@ -31,13 +31,15 @@ public class Shop {
         fruitList.add(addFruit);
     }
 
-    public final void sellFruit(final Fruit sellFruit) {
+    public final boolean sellFruit(final Fruit sellFruit) {
         for (Fruit fruit : fruitList) {
             if (fruit.getName().equals(sellFruit.getName())) {
                 fruit.setWeight(fruit.getWeight() - sellFruit.getWeight());
-                return;
+                return true;
             }
         }
+        return false;
+
     }
 
     public final List<Fruit> sortFruitByColor(final List<Fruit> list) {

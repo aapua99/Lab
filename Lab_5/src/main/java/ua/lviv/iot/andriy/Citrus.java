@@ -14,6 +14,7 @@ public class Citrus extends Fruit {
     public Citrus(final FruitType type,
                   final double weight) {
         super(type, weight);
+        this.type=type;
     }
 
     public final FruitType getType() {

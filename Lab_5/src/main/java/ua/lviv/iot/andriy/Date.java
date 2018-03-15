@@ -4,11 +4,11 @@ public class Date {
 
 
     private int day;
-    private int mounth;
+    private int month;
     private int year;
 
-    public Date(final int day, final int mounth, final int year) throws DateException {
-        if(mounth>12){
+    public Date(final int day, final int month, final int year) throws DateException {
+        if(month>12){
             throw new DateException();
         }
         if(day>31){
@@ -19,7 +19,7 @@ public class Date {
         }
 
         this.day = day;
-        this.mounth = mounth;
+        this.month = month;
         this.year = year;
     }
 
@@ -31,12 +31,12 @@ public class Date {
         this.day = day;
     }
 
-    public final int getMounth() {
-        return mounth;
+    public final int getMonth() {
+        return month;
     }
 
-    public final void setMounth(final int mounth) {
-        this.mounth = mounth;
+    public final void setMonth(final int month) {
+        this.month = month;
     }
 
     public final int getYear() {

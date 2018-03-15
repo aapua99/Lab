@@ -15,16 +15,16 @@ public class FruitTest {
     @Test
     public void getExperationDate() throws Exception{
         assertThat(fruit.getExperationDate().getDay(), is(25));
-        assertThat(fruit.getExperationDate().getMounth(), is(12));
-        assertThat(fruit.getExperationDate().getYear(), is(2012));
+        assertThat(fruit.getExperationDate().getMonth(), is(12));
+        assertThat(fruit.getExperationDate().getYear(), is(2018));
     }
 
     @Test
     public void setExperationDate() throws Exception {
-        fruit.setExperationDate(new Date(12,8,2010));
+        fruit.setExperationDate(new Date(12,8,2019));
         assertThat(fruit.getExperationDate().getDay(), is(12));
-        assertThat(fruit.getExperationDate().getMounth(), is(8));
-        assertThat(fruit.getExperationDate().getYear(), is(2010));
+        assertThat(fruit.getExperationDate().getMonth(), is(8));
+        assertThat(fruit.getExperationDate().getYear(), is(2019));
 
     }
 
