@@ -99,14 +99,14 @@ public class ShopTest {
         list.add(new Fruit(FruitType.BLACKBERRIE,25));
         list.add(new Fruit(FruitType.BLACKBERRIE,25));
         list.add(new Fruit(FruitType.BLACKBERRIE,25));
-        shop1.setFruitList(list);
-        shop1.getFruitList().get(0).setFruitColor(FruitColor.YELLOW);
-        shop1.getFruitList().get(1).setFruitColor(FruitColor.GREEN);
-        shop1.getFruitList().get(2).setFruitColor(FruitColor.YELLOW);
-        shop1.setFruitList(shop1.sortFruitByColor(list));
-        assertThat(shop1.getFruitList().get(0).getFruitColor(), is(FruitColor.GREEN));
-        assertThat(shop1.getFruitList().get(1).getFruitColor(), is(FruitColor.YELLOW));
-        assertThat(shop1.getFruitList().get(2).getFruitColor(), is(FruitColor.YELLOW));
+
+        list.get(0).setFruitColor(FruitColor.YELLOW);
+        list.get(1).setFruitColor(FruitColor.GREEN);
+        list.get(2).setFruitColor(FruitColor.YELLOW);
+        shop1.sortFruitByColor(list);
+        assertThat(list.get(0).getFruitColor(), is(FruitColor.GREEN));
+        assertThat(list.get(1).getFruitColor(), is(FruitColor.YELLOW));
+        assertThat(list.get(2).getFruitColor(), is(FruitColor.YELLOW));
     }
 
     @Test

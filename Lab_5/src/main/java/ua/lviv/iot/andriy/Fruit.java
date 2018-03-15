@@ -22,8 +22,7 @@ public class Fruit  {
     }
 
     public Fruit(final FruitType name, final double weight) {
-        this.name = name;
-        this.weight = weight;
+        this(name, null, null, weight, null);
     }
 
     public final Date getExperationDate() {
@@ -64,6 +63,12 @@ public class Fruit  {
 
     public final void setName(final FruitType name) {
         this.name = name;
+    }
+
+    public final String toString(){
+        String result=("Experation date:"+experationDate.toString()+", "+"Fruit color "+fruitColor.toString()+", "+
+                "Weight "+String.valueOf(weight)+", "+"Season "+ season.toString());
+        return result;
     }
 
 }

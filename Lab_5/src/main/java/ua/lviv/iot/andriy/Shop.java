@@ -42,9 +42,8 @@ public class Shop {
 
     }
 
-    public final List<Fruit> sortFruitByColor(final List<Fruit> list) {
+    public final void sortFruitByColor(final List<Fruit> list) {
         list.sort(Comparator.comparing(Fruit::getFruitColor));
-        return list;
     }
 
     public final List<Fruit> searchFruit(final Season searchSeason) {

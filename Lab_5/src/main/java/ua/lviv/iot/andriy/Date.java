@@ -23,6 +23,10 @@ public class Date {
         this.year = year;
     }
 
+    public final String toString(){
+        return String.valueOf(day)+"."+String.valueOf(month)+"."+String.valueOf(year);
+    }
+
     public final int getDay() {
         return day;
     }
