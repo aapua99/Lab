@@ -8,6 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -17,11 +18,11 @@ public class FileFruitManager {
 
     }
 
-    public final void writeFruitInFile(final List<Fruit> list) throws IOException {
+    public final void writeFruitInFile(final Map<Integer,Fruit> list) throws IOException {
         try (FileWriter fileWriter = new FileWriter("fruit.csv")) {
-            for (Fruit fruit : list) {
-                fileWriter.write(fruit.getName().toString() + "\n");
-                fileWriter.write(fruit.toString() + "\n");
+            for (Map.Entry<Integer,Fruit> fruit : list.entrySet()) {
+                fileWriter.write(fruit.getValue().getName().toString() + "\n");
+                fileWriter.write(fruit.getValue().toString() + "\n");
             }
         } catch (IOException e) {
             throw e;

@@ -2,7 +2,9 @@ package ua.lviv.iot.andriy;
 
 import org.junit.Test;
 
+import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.Map;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
@@ -22,15 +24,13 @@ public class ShopTest {
     @Test
     public void addFruit() throws DateException {
         Shop shop = new Shop();
-        Citrus citrus = new Citrus(new Date(12, 12, 2018), FruitColor.YELLOW, 25, FruitType.LEMON, Season.WINTER);
+        Citrus citrus = new Citrus(new Date(12, 12, 2018), FruitColor.YELLOW, 25, FruitType.LEMON, Season.WINTER,1);
         shop.addFruit(citrus);
-        Citrus citrus1 = new Citrus(new Date(12, 12, 2018), FruitColor.YELLOW, 25, FruitType.ORANGE, Season.WINTER);
+        Citrus citrus1 = new Citrus(new Date(12, 12, 2018), FruitColor.YELLOW, 25, FruitType.ORANGE, Season.WINTER,2);
         shop.addFruit(citrus1);
+        System.out.println(shop.getFruitList().size());
         assertTrue(shop.getFruitList().size() == 2);
-        Fruit result = shop.getFruitList().get(0);
-        assertThat(result, is(citrus));
-        result = shop.getFruitList().get(1);
-        assertThat(result, is(citrus1));
+
     }
 
     @Test
@@ -87,8 +87,8 @@ public class ShopTest {
 
     @Test
     public void  setList(){
-        LinkedList<Fruit> list=new LinkedList<>();
-        list.add(new Fruit(FruitType.BLACKBERRIE, 25));
+        Map<Integer,Fruit> list=new HashMap<>();
+        list.put(1,new Fruit(FruitType.BLACKBERRIE, 25));
         shop1.setFruitList(list);
         assertThat(shop1.getFruitList().size(), is(1));
     }
@@ -111,18 +111,18 @@ public class ShopTest {
 
     @Test
     public void testSearchSeason(){
-        LinkedList<Fruit> list=new LinkedList<>();
-        list.add(new Fruit(FruitType.BLACKBERRIE,25));
-        list.add(new Fruit(FruitType.BLACKBERRIE,25));
-        list.add(new Fruit(FruitType.BLACKBERRIE,25));
+        Map<Integer,Fruit> list=new HashMap<>();
+        list.put(1,new Fruit(FruitType.BLACKBERRIE,25));
+        list.put(2,new Fruit(FruitType.BLACKBERRIE,25));
+        list.put(3,new Fruit(FruitType.BLACKBERRIE,25));
         shop1.setFruitList(list);
-        shop1.getFruitList().get(0).setSeason(Season.WINTER);
         shop1.getFruitList().get(1).setSeason(Season.WINTER);
-        shop1.getFruitList().get(2).setSeason(Season.SUMMER);
+        shop1.getFruitList().get(2).setSeason(Season.AUTUMN);
+        shop1.getFruitList().get(3).setSeason(Season.SUMMER);
         shop1.setFruitList(list);
         shop1.setFruitList(shop1.searchFruit(Season.WINTER));
         assertThat(shop1.getFruitList().get(0).getSeason(), is(Season.WINTER));
-        assertThat(shop1.getFruitList().get(1).getSeason(), is(Season.WINTER));
+      
 
 
     }

@@ -54,31 +54,37 @@
       <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="69" column="50" lean-forward="false" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
+            <state relative-caret-position="384">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1172#1173#0" expanded="true" />
+                <element signature="e#1248#1249#0" expanded="true" />
+                <element signature="e#1303#1304#0" expanded="true" />
+                <element signature="e#2473#2474#0" expanded="true" />
+                <element signature="e#2498#2499#0" expanded="true" />
+                <element signature="e#2544#2545#0" expanded="true" />
+                <element signature="e#2572#2573#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/DateException.java">
+      <file leaf-file-name="Season.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Season.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShopTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/ShopTest.java">
+      <file leaf-file-name="Citrus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Citrus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2520">
-              <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -94,31 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/CustomerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="39" column="53" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="39" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/DateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileFruitManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileFruitManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FileFruitManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="747">
-              <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="696">
+              <caret line="56" column="21" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,12 +112,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileFruitManagerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/FileFruitManagerTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+            <state relative-caret-position="1728">
+              <caret line="72" column="32" lean-forward="false" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JaxRsConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/rest/config/JaxRsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,12 +137,53 @@
       <file leaf-file-name="Shop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Shop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="82" column="29" lean-forward="false" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+            <state relative-caret-position="339">
+              <caret line="81" column="49" lean-forward="false" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="49" />
               <folding>
-                <element signature="e#2137#2138#0" expanded="true" />
-                <element signature="e#2169#2170#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1917#1918#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+                <element signature="e#1996#1997#0" expanded="true" />
+                <element signature="e#2028#2029#0" expanded="true" />
+                <element signature="e#2065#2066#0" expanded="true" />
+                <element signature="e#2092#2093#0" expanded="true" />
+                <element signature="e#2144#2145#0" expanded="true" />
+                <element signature="e#2176#2177#0" expanded="true" />
+                <element signature="e#2216#2217#0" expanded="true" />
+                <element signature="e#2246#2247#0" expanded="true" />
+                <element signature="e#2303#2304#0" expanded="true" />
+                <element signature="e#2340#2341#0" expanded="true" />
+                <element signature="e#2395#2396#0" expanded="true" />
+                <element signature="e#2427#2428#0" expanded="true" />
+                <element signature="e#2501#2502#0" expanded="true" />
+                <element signature="e#2543#2544#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#1432#1433#0" expanded="true" />
+                <element signature="e#1481#1482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FruitType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FruitType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,8 +194,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -166,6 +205,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>public final void writeFruitInFile\(final List\&lt;Fruit\&gt; list\) throws IOException \{\n        try \(FileWriter fileWriter\=new FileWriter\(\&quot;fruit\.csv\&quot;\)\) \{\n        for \(Fruit fruit\:list\) \{\n            fileWriter\.write\(fruit\.getName\(\)\.toString\(\)\+\&quot;\\n\&quot;\)\;\n            fileWriter\.write\(fruit\.toString\(\)\+\&quot;\\n\&quot;\)\;\n        \}\} catch \(IOException e\) \{\n            throw e\;\n        \}\n    \}</find>
+      <find>String</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -177,25 +217,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/target/site/index.html" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/DateException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/BerryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Berry.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/CitrusTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Citrus.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/CustomerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/DateTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/FruitTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Shop.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/ShopTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/StringProcessorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/StringProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Date.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/FileFruitManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/rest/config/JazRsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Citrus.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/ShopTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FileFruitManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/FileFruitManagerTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/rest/config/JaxRsConfig.java" />
       </list>
     </option>
   </component>
@@ -232,6 +275,29 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="war" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
@@ -243,6 +309,25 @@
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RestResourceMethodInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -259,76 +344,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="andriy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="andriy" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -336,7 +413,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="I:/Lab Java/Lab/Lab_6/work" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -635,43 +712,45 @@
       <workItem from="1521025389588" duration="922000" />
       <workItem from="1521101951024" duration="484000" />
       <workItem from="1521106863530" duration="30000" />
+      <workItem from="1521655747341" duration="9774000" />
+      <workItem from="1521707529904" duration="6700000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileFruitManagerTest_testScanner - 2018.03.07 at 11h 26m 34s.xml">
-      <configuration name="FileFruitManagerTest.testScanner" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 21h 53m 36s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_testScanner - 2018.03.07 at 11h 27m 13s.xml">
-      <configuration name="FileFruitManagerTest.testScanner" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 21h 53m 55s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_testScanner - 2018.03.14 at 13h 06m 00s.xml">
-      <configuration name="FileFruitManagerTest.testScanner" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 21h 54m 33s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_testScanner - 2018.03.14 at 13h 07m 28s.xml">
-      <configuration name="FileFruitManagerTest.testScanner" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 22h 09m 15s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_writeFruitInFile - 2018.03.07 at 11h 12m 36s.xml">
-      <configuration name="FileFruitManagerTest.writeFruitInFile" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 22h 15m 15s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_writeFruitInFile - 2018.03.14 at 13h 04m 49s.xml">
-      <configuration name="FileFruitManagerTest.writeFruitInFile" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 22h 15m 49s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_writeFruitInFile - 2018.03.14 at 13h 05m 03s.xml">
-      <configuration name="FileFruitManagerTest.writeFruitInFile" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 22h 16m 55s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_writeFruitInFile - 2018.03.14 at 13h 05m 18s.xml">
-      <configuration name="FileFruitManagerTest.writeFruitInFile" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 22h 25m 07s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileFruitManagerTest_writeFruitInFile - 2018.03.14 at 13h 05m 53s.xml">
-      <configuration name="FileFruitManagerTest.writeFruitInFile" configurationId="JUnit" />
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.21 at 22h 25m 55s.xml">
+      <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.14 at 13h 10m 20s.xml">
+    <history-entry file="ua_lviv_iot_andriy_in_work - 2018.03.22 at 10h 57m 23s.xml">
       <configuration name="ua.lviv.iot.andriy in work" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34930000" />
+    <option name="totallyTimeSpent" value="51404000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -684,39 +763,78 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33995703" sideWeight="0.49310344" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33865452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35119727" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33995703" sideWeight="0.49310344" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22126746" sideWeight="0.49310344" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327252" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33865452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35119727" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2244898" sideWeight="0.49310344" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19763695" sideWeight="0.50689656" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327252" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33995703" sideWeight="0.50689656" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33995703" sideWeight="0.49310344" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327252" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33865452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33995703" sideWeight="0.50689656" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35119727" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2244898" sideWeight="0.49310344" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19763695" sideWeight="0.50689656" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -726,15 +844,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Shop.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -743,27 +853,28 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FruitColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FruitType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Shop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1656">
           <caret line="87" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding>
-            <element signature="e#2137#2138#0" expanded="true" />
-            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2176#2177#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2427#2428#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+            <element signature="e#2543#2544#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -823,8 +934,14 @@
         <state relative-caret-position="936">
           <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
           <folding>
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#2473#2474#0" expanded="true" />
+            <element signature="e#2498#2499#0" expanded="true" />
+            <element signature="e#2544#2545#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -834,8 +951,23 @@
         <state relative-caret-position="1560">
           <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding>
-            <element signature="e#2137#2138#0" expanded="true" />
-            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2176#2177#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2427#2428#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+            <element signature="e#2543#2544#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -861,8 +993,23 @@
         <state relative-caret-position="1008">
           <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding>
-            <element signature="e#2137#2138#0" expanded="true" />
-            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2176#2177#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2427#2428#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+            <element signature="e#2543#2544#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,13 +1030,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/index.html" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FruitColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -897,21 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FruitType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Season.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/BerryLocationType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -944,13 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="218" column="31" lean-forward="true" selection-start-line="218" selection-start-column="31" selection-end-line="218" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Citrus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -994,7 +1112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,30 +1120,18 @@
         <state relative-caret-position="600">
           <caret line="26" column="86" lean-forward="false" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
           <folding>
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="false" />
+            <element signature="e#631#632#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/StringProcessorTest.java" />
     <entry file="file://$PROJECT_DIR$/fruit.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="69" column="50" lean-forward="false" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
-          <folding>
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,6 +1139,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="39" column="53" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Citrus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/FileFruitManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="77" lean-forward="false" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -1048,35 +1169,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/ShopTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/andriy/FileFruitManagerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Season.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="72" column="32" lean-forward="false" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FileFruitManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
-          <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+          <caret line="56" column="21" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FruitType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Shop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="82" column="29" lean-forward="false" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+        <state relative-caret-position="339">
+          <caret line="81" column="49" lean-forward="false" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="49" />
           <folding>
-            <element signature="e#2137#2138#0" expanded="true" />
-            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2176#2177#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2427#2428#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+            <element signature="e#2543#2544#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/FileFruitManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="384">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#2473#2474#0" expanded="true" />
+            <element signature="e#2498#2499#0" expanded="true" />
+            <element signature="e#2544#2545#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/andriy/rest/config/JaxRsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

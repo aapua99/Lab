@@ -10,6 +10,12 @@ public class Citrus extends Fruit {
         super(type, experationDate, fruitColor, weight, season);
         this.type = type;
     }
+    public Citrus(final Date experationDate, final FruitColor fruitColor,
+                  final double weight, final FruitType type,
+                  final Season season, final  int id) {
+        super(type, experationDate, fruitColor, weight, season,id);
+        this.type = type;
+    }
 
     public Citrus(final FruitType type,
                   final double weight) {

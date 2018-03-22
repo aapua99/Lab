@@ -46,8 +46,8 @@ public class FileFruitManagerTest {
         FileFruitManager fileFruitManager=new FileFruitManager();
         try {
             try {
-               assertThat(fileFruitManager.searchFruitInFile(FruitType.STRAWBERRIE).getWeight(), is(25.0));
-               assertThat(fileFruitManager.searchFruitInFile(FruitType.STRAWBERRIE).getFruitColor(), is(FruitColor.RED));
+               assertThat(fileFruitManager.searchFruitInFile(FruitType.ORANGE).getWeight(), is(69.0));
+               assertThat(fileFruitManager.searchFruitInFile(FruitType.ORANGE).getFruitColor(), is(FruitColor.ORANGE));
             } catch (DateException e) {
                 e.printStackTrace();
             }
