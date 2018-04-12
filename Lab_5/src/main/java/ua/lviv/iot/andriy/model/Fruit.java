@@ -11,7 +11,8 @@ public class Fruit  {
     @Id
     @Column(name = "fruit_id")
     private int id;
-    @Column(name = "fruit_date")
+    //@Column(name = "fruit_date")
+    @Transient
     private Date experationDate;
     @Column(name = "fruit_type")
     private FruitType name;
